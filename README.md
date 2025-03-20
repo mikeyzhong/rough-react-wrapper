@@ -1,5 +1,9 @@
 # Rough React Wrapper
 
+Update: 3/20/25
+rough-react-wrapper is wonderful but it doesn't let you pass in children into ReactRough, so this fork just lets you pass in children.
+
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/fsefidabi/projects-assets/main/rough-react-wrapper/logo.png" style="max-height: 300px" alt="logo">
 </p>
